@@ -14596,6 +14596,458 @@ DIN A4, landscape with location and doc. field</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="creative-commons">
+<packages>
+<package name="CC_TOP">
+<description>&lt;h2&gt;Top layer&lt;/h2&gt;</description>
+<circle x="5" y="5" radius="4.5" width="1" layer="1"/>
+<polygon width="0" layer="1">
+<vertex x="7.25" y="4.55" curve="-55.001443"/>
+<vertex x="6.6" y="4.1" curve="-99.997093"/>
+<vertex x="5.95" y="4.8"/>
+<vertex x="5.95" y="5.2" curve="-90"/>
+<vertex x="6.55" y="5.85" curve="-67.380135"/>
+<vertex x="7.15" y="5.45"/>
+<vertex x="7.8" y="5.8" curve="60.001456"/>
+<vertex x="6.55" y="6.55"/>
+<vertex x="6.5" y="6.55" curve="90.03162"/>
+<vertex x="5.05" y="5.2"/>
+<vertex x="5.05" y="4.85" curve="90.007903"/>
+<vertex x="6.45" y="3.4"/>
+<vertex x="6.65" y="3.4" curve="69.999297"/>
+<vertex x="7.85" y="4.25"/>
+</polygon>
+<polygon width="0" layer="1">
+<vertex x="4.35" y="4.55" curve="-55.001443"/>
+<vertex x="3.7" y="4.1" curve="-99.997093"/>
+<vertex x="3.05" y="4.8"/>
+<vertex x="3.05" y="5.2" curve="-90"/>
+<vertex x="3.65" y="5.85" curve="-67.380135"/>
+<vertex x="4.25" y="5.45"/>
+<vertex x="4.9" y="5.8" curve="60.001456"/>
+<vertex x="3.65" y="6.55"/>
+<vertex x="3.6" y="6.55" curve="90.03162"/>
+<vertex x="2.15" y="5.2"/>
+<vertex x="2.15" y="4.85" curve="90.007903"/>
+<vertex x="3.55" y="3.4"/>
+<vertex x="3.75" y="3.4" curve="69.999297"/>
+<vertex x="4.95" y="4.25"/>
+</polygon>
+</package>
+<package name="CC_TPLACE">
+<description>&lt;h2&gt;tPlace layer&lt;/h2&gt;</description>
+<circle x="5" y="5" radius="4.5" width="1" layer="21"/>
+<polygon width="0" layer="21">
+<vertex x="7.25" y="4.55" curve="-55.001443"/>
+<vertex x="6.6" y="4.1" curve="-99.997093"/>
+<vertex x="5.95" y="4.8"/>
+<vertex x="5.95" y="5.2" curve="-90"/>
+<vertex x="6.55" y="5.85" curve="-67.380135"/>
+<vertex x="7.15" y="5.45"/>
+<vertex x="7.8" y="5.8" curve="60.001456"/>
+<vertex x="6.55" y="6.55"/>
+<vertex x="6.5" y="6.55" curve="90.03162"/>
+<vertex x="5.05" y="5.2"/>
+<vertex x="5.05" y="4.85" curve="90.007903"/>
+<vertex x="6.45" y="3.4"/>
+<vertex x="6.65" y="3.4" curve="69.999297"/>
+<vertex x="7.85" y="4.25"/>
+</polygon>
+<polygon width="0" layer="21">
+<vertex x="4.35" y="4.55" curve="-55.001443"/>
+<vertex x="3.7" y="4.1" curve="-99.997093"/>
+<vertex x="3.05" y="4.8"/>
+<vertex x="3.05" y="5.2" curve="-90"/>
+<vertex x="3.65" y="5.85" curve="-67.380135"/>
+<vertex x="4.25" y="5.45"/>
+<vertex x="4.9" y="5.8" curve="60.001456"/>
+<vertex x="3.65" y="6.55"/>
+<vertex x="3.6" y="6.55" curve="90.03162"/>
+<vertex x="2.15" y="5.2"/>
+<vertex x="2.15" y="4.85" curve="90.007903"/>
+<vertex x="3.55" y="3.4"/>
+<vertex x="3.75" y="3.4" curve="69.999297"/>
+<vertex x="4.95" y="4.25"/>
+</polygon>
+</package>
+<package name="CC_TOP_HS">
+<circle x="2.5" y="2.5" radius="2.25" width="0.5" layer="1"/>
+<polygon width="0" layer="1">
+<vertex x="2.175" y="2.275" curve="-55.001443"/>
+<vertex x="1.85" y="2.05" curve="-99.997093"/>
+<vertex x="1.525" y="2.4"/>
+<vertex x="1.525" y="2.6" curve="-90"/>
+<vertex x="1.825" y="2.925" curve="-67.380135"/>
+<vertex x="2.125" y="2.725"/>
+<vertex x="2.45" y="2.9" curve="60.001456"/>
+<vertex x="1.825" y="3.275"/>
+<vertex x="1.8" y="3.275" curve="90.03162"/>
+<vertex x="1.075" y="2.6"/>
+<vertex x="1.075" y="2.425" curve="90.007903"/>
+<vertex x="1.775" y="1.7"/>
+<vertex x="1.875" y="1.7" curve="69.999297"/>
+<vertex x="2.475" y="2.125"/>
+</polygon>
+<polygon width="0" layer="1">
+<vertex x="3.625" y="2.275" curve="-55.001443"/>
+<vertex x="3.3" y="2.05" curve="-99.997093"/>
+<vertex x="2.975" y="2.4"/>
+<vertex x="2.975" y="2.6" curve="-90"/>
+<vertex x="3.275" y="2.925" curve="-67.380135"/>
+<vertex x="3.575" y="2.725"/>
+<vertex x="3.9" y="2.9" curve="60.001456"/>
+<vertex x="3.275" y="3.275"/>
+<vertex x="3.25" y="3.275" curve="90.03162"/>
+<vertex x="2.525" y="2.6"/>
+<vertex x="2.525" y="2.425" curve="90.007903"/>
+<vertex x="3.225" y="1.7"/>
+<vertex x="3.325" y="1.7" curve="69.999297"/>
+<vertex x="3.925" y="2.125"/>
+</polygon>
+</package>
+<package name="CC_TPLACE_HS">
+<circle x="2.5" y="2.5" radius="2.25" width="0.5" layer="21"/>
+<polygon width="0" layer="21">
+<vertex x="2.175" y="2.275" curve="-55.001443"/>
+<vertex x="1.85" y="2.05" curve="-99.997093"/>
+<vertex x="1.525" y="2.4"/>
+<vertex x="1.525" y="2.6" curve="-90"/>
+<vertex x="1.825" y="2.925" curve="-67.380135"/>
+<vertex x="2.125" y="2.725"/>
+<vertex x="2.45" y="2.9" curve="60.001456"/>
+<vertex x="1.825" y="3.275"/>
+<vertex x="1.8" y="3.275" curve="90.03162"/>
+<vertex x="1.075" y="2.6"/>
+<vertex x="1.075" y="2.425" curve="90.007903"/>
+<vertex x="1.775" y="1.7"/>
+<vertex x="1.875" y="1.7" curve="69.999297"/>
+<vertex x="2.475" y="2.125"/>
+</polygon>
+<polygon width="0" layer="21">
+<vertex x="3.625" y="2.275" curve="-55.001443"/>
+<vertex x="3.3" y="2.05" curve="-99.997093"/>
+<vertex x="2.975" y="2.4"/>
+<vertex x="2.975" y="2.6" curve="-90"/>
+<vertex x="3.275" y="2.925" curve="-67.380135"/>
+<vertex x="3.575" y="2.725"/>
+<vertex x="3.9" y="2.9" curve="60.001456"/>
+<vertex x="3.275" y="3.275"/>
+<vertex x="3.25" y="3.275" curve="90.03162"/>
+<vertex x="2.525" y="2.6"/>
+<vertex x="2.525" y="2.425" curve="90.007903"/>
+<vertex x="3.225" y="1.7"/>
+<vertex x="3.325" y="1.7" curve="69.999297"/>
+<vertex x="3.925" y="2.125"/>
+</polygon>
+</package>
+<package name="BY_TOP">
+<description>&lt;h2&gt;Top layer&lt;/h2&gt;</description>
+<circle x="5" y="5" radius="4.5" width="1" layer="1"/>
+<polygon width="0" layer="1">
+<vertex x="3.65" y="4.2"/>
+<vertex x="4.2" y="4.2"/>
+<vertex x="4.2" y="1.75"/>
+<vertex x="5.8" y="1.75"/>
+<vertex x="5.8" y="4.15"/>
+<vertex x="6.35" y="4.15"/>
+<vertex x="6.35" y="6.3" curve="90"/>
+<vertex x="6.1" y="6.55"/>
+<vertex x="3.9" y="6.55" curve="90"/>
+<vertex x="3.65" y="6.3"/>
+</polygon>
+<polygon width="0" layer="1">
+<vertex x="5" y="8.2"/>
+<vertex x="5.1" y="8.2" curve="-90"/>
+<vertex x="5.7" y="7.6"/>
+<vertex x="5.7" y="7.4" curve="-90"/>
+<vertex x="5.1" y="6.8"/>
+<vertex x="5" y="6.8"/>
+<vertex x="4.9" y="6.8" curve="-90"/>
+<vertex x="4.3" y="7.4"/>
+<vertex x="4.3" y="7.6" curve="-90"/>
+<vertex x="4.9" y="8.2"/>
+</polygon>
+</package>
+<package name="BY_TPLACE">
+<description>&lt;h2&gt;tPlace layer&lt;/h2&gt;</description>
+<circle x="5" y="5" radius="4.5" width="1" layer="21"/>
+<polygon width="0" layer="21">
+<vertex x="3.65" y="4.2"/>
+<vertex x="4.2" y="4.2"/>
+<vertex x="4.2" y="1.75"/>
+<vertex x="5.8" y="1.75"/>
+<vertex x="5.8" y="4.15"/>
+<vertex x="6.35" y="4.15"/>
+<vertex x="6.35" y="6.3" curve="90"/>
+<vertex x="6.1" y="6.55"/>
+<vertex x="3.9" y="6.55" curve="90"/>
+<vertex x="3.65" y="6.3"/>
+</polygon>
+<polygon width="0" layer="21">
+<vertex x="5" y="8.2"/>
+<vertex x="5.1" y="8.2" curve="-90"/>
+<vertex x="5.7" y="7.6"/>
+<vertex x="5.7" y="7.4" curve="-90"/>
+<vertex x="5.1" y="6.8"/>
+<vertex x="5" y="6.8"/>
+<vertex x="4.9" y="6.8" curve="-90"/>
+<vertex x="4.3" y="7.4"/>
+<vertex x="4.3" y="7.6" curve="-90"/>
+<vertex x="4.9" y="8.2"/>
+</polygon>
+</package>
+<package name="BY_TOP_HS">
+<circle x="2.5" y="2.5" radius="2.25" width="0.5" layer="1"/>
+<polygon width="0" layer="1">
+<vertex x="1.825" y="2.1"/>
+<vertex x="2.1" y="2.1"/>
+<vertex x="2.1" y="0.875"/>
+<vertex x="2.9" y="0.875"/>
+<vertex x="2.9" y="2.075"/>
+<vertex x="3.175" y="2.075"/>
+<vertex x="3.175" y="3.15" curve="90"/>
+<vertex x="3.05" y="3.275"/>
+<vertex x="1.95" y="3.275" curve="90"/>
+<vertex x="1.825" y="3.15"/>
+</polygon>
+<polygon width="0" layer="1">
+<vertex x="2.45" y="4.1"/>
+<vertex x="2.55" y="4.1" curve="-90"/>
+<vertex x="2.85" y="3.8"/>
+<vertex x="2.85" y="3.7" curve="-90"/>
+<vertex x="2.55" y="3.4"/>
+<vertex x="2.45" y="3.4" curve="-90"/>
+<vertex x="2.15" y="3.7"/>
+<vertex x="2.15" y="3.8" curve="-90"/>
+</polygon>
+</package>
+<package name="BY_TPLACE_HS">
+<circle x="2.5" y="2.5" radius="2.25" width="0.5" layer="21"/>
+<polygon width="0" layer="21">
+<vertex x="1.825" y="2.1"/>
+<vertex x="2.1" y="2.1"/>
+<vertex x="2.1" y="0.875"/>
+<vertex x="2.9" y="0.875"/>
+<vertex x="2.9" y="2.075"/>
+<vertex x="3.175" y="2.075"/>
+<vertex x="3.175" y="3.15" curve="90"/>
+<vertex x="3.05" y="3.275"/>
+<vertex x="1.95" y="3.275" curve="90"/>
+<vertex x="1.825" y="3.15"/>
+</polygon>
+<polygon width="0" layer="21">
+<vertex x="2.45" y="4.1"/>
+<vertex x="2.55" y="4.1" curve="-90"/>
+<vertex x="2.85" y="3.8"/>
+<vertex x="2.85" y="3.7" curve="-90"/>
+<vertex x="2.55" y="3.4"/>
+<vertex x="2.45" y="3.4" curve="-90"/>
+<vertex x="2.15" y="3.7"/>
+<vertex x="2.15" y="3.8" curve="-90"/>
+</polygon>
+</package>
+<package name="SA_TOP">
+<description>&lt;h2&gt;Top layer&lt;/h2&gt;</description>
+<circle x="5" y="4.9" radius="4.5" width="1" layer="21"/>
+<polygon width="0" layer="21">
+<vertex x="2.7" y="4.2"/>
+<vertex x="4" y="4.2" curve="90"/>
+<vertex x="4.9" y="3.3"/>
+<vertex x="5.1" y="3.3" curve="85.004066"/>
+<vertex x="6.25" y="4.6"/>
+<vertex x="6.25" y="5.2" curve="85.001192"/>
+<vertex x="5.25" y="6.6"/>
+<vertex x="5.1" y="6.6" curve="90"/>
+<vertex x="4" y="5.7"/>
+<vertex x="4.4" y="5.7"/>
+<vertex x="3.4" y="4.7"/>
+<vertex x="3.3" y="4.7"/>
+<vertex x="2.3" y="5.7"/>
+<vertex x="2.8" y="5.7" curve="-90"/>
+<vertex x="4.7" y="7.6"/>
+<vertex x="5.25" y="7.6" curve="-90"/>
+<vertex x="7.45" y="5.2"/>
+<vertex x="7.45" y="4.75" curve="-94.996202"/>
+<vertex x="5" y="2.2"/>
+<vertex x="4.7" y="2.2" curve="-90"/>
+</polygon>
+</package>
+<package name="SA_TPLACE">
+<description>&lt;h2&gt;tPlace layer&lt;/h2&gt;</description>
+<circle x="5" y="4.9" radius="4.5" width="1" layer="21"/>
+<polygon width="0" layer="21">
+<vertex x="2.7" y="4.2"/>
+<vertex x="4" y="4.2" curve="90"/>
+<vertex x="4.9" y="3.3"/>
+<vertex x="5.1" y="3.3" curve="85.004066"/>
+<vertex x="6.25" y="4.6"/>
+<vertex x="6.25" y="5.2" curve="85.001192"/>
+<vertex x="5.25" y="6.6"/>
+<vertex x="5.1" y="6.6" curve="90"/>
+<vertex x="4" y="5.7"/>
+<vertex x="4.4" y="5.7"/>
+<vertex x="3.4" y="4.7"/>
+<vertex x="3.3" y="4.7"/>
+<vertex x="2.3" y="5.7"/>
+<vertex x="2.8" y="5.7" curve="-90"/>
+<vertex x="4.7" y="7.6"/>
+<vertex x="5.25" y="7.6" curve="-90"/>
+<vertex x="7.45" y="5.2"/>
+<vertex x="7.45" y="4.75" curve="-94.996202"/>
+<vertex x="5" y="2.2"/>
+<vertex x="4.7" y="2.2" curve="-90"/>
+</polygon>
+</package>
+<package name="SA_TOP_HS">
+<description>&lt;h2&gt;Top layer&lt;/h2&gt;</description>
+<circle x="2.5" y="2.5" radius="2.25" width="0.5" layer="1"/>
+<polygon width="0" layer="1">
+<vertex x="1.35" y="2.1"/>
+<vertex x="2" y="2.1" curve="90"/>
+<vertex x="2.45" y="1.65"/>
+<vertex x="2.55" y="1.65" curve="85.004066"/>
+<vertex x="3.125" y="2.3"/>
+<vertex x="3.125" y="2.6" curve="85.001192"/>
+<vertex x="2.625" y="3.3"/>
+<vertex x="2.55" y="3.3" curve="90"/>
+<vertex x="2" y="2.85"/>
+<vertex x="2.2" y="2.85"/>
+<vertex x="1.7" y="2.35"/>
+<vertex x="1.65" y="2.35"/>
+<vertex x="1.15" y="2.85"/>
+<vertex x="1.4" y="2.85" curve="-90"/>
+<vertex x="2.35" y="3.8"/>
+<vertex x="2.625" y="3.8" curve="-90"/>
+<vertex x="3.725" y="2.6"/>
+<vertex x="3.725" y="2.375" curve="-94.996202"/>
+<vertex x="2.5" y="1.1"/>
+<vertex x="2.35" y="1.1" curve="-90"/>
+</polygon>
+</package>
+<package name="SA_TPLACE_HS">
+<circle x="2.5" y="2.5" radius="2.25" width="0.5" layer="21"/>
+<polygon width="0" layer="21">
+<vertex x="1.35" y="2.1"/>
+<vertex x="2" y="2.1" curve="90"/>
+<vertex x="2.45" y="1.65"/>
+<vertex x="2.55" y="1.65" curve="85.004066"/>
+<vertex x="3.125" y="2.3"/>
+<vertex x="3.125" y="2.6" curve="85.001192"/>
+<vertex x="2.625" y="3.3"/>
+<vertex x="2.55" y="3.3" curve="90"/>
+<vertex x="2" y="2.85"/>
+<vertex x="2.2" y="2.85"/>
+<vertex x="1.7" y="2.35"/>
+<vertex x="1.65" y="2.35"/>
+<vertex x="1.15" y="2.85"/>
+<vertex x="1.4" y="2.85" curve="-90"/>
+<vertex x="2.35" y="3.8"/>
+<vertex x="2.625" y="3.8" curve="-90"/>
+<vertex x="3.725" y="2.6"/>
+<vertex x="3.725" y="2.375" curve="-94.996202"/>
+<vertex x="2.5" y="1.1"/>
+<vertex x="2.35" y="1.1" curve="-90"/>
+</polygon>
+</package>
+</packages>
+<symbols>
+<symbol name="CC">
+<text x="0" y="0" size="1.778" layer="94">CC</text>
+</symbol>
+<symbol name="BY">
+<text x="0" y="0" size="1.778" layer="94">BY</text>
+</symbol>
+<symbol name="SA">
+<text x="0" y="0" size="1.778" layer="94">SA</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="CC">
+<description>&lt;h1&gt;creatice commons - CC&lt;/h1&gt;</description>
+<gates>
+<gate name="G$1" symbol="CC" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-TOP" package="CC_TOP">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TPLACE" package="CC_TPLACE">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TOP-HALF" package="CC_TOP_HS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TPLACE-HALF" package="CC_TPLACE_HS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="BY">
+<description>&lt;h1&gt;creative commons &lt;p&gt;Attribution - BY&lt;/h1&gt;</description>
+<gates>
+<gate name="G$1" symbol="BY" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-TOP" package="BY_TOP">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TPLACE" package="BY_TPLACE">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TOP-HALF" package="BY_TOP_HS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TPLACE-HS" package="BY_TPLACE_HS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="SA">
+<description>&lt;h1&gt;creative commons &lt;p&gt;ShareAlike  - SA&lt;/h1&gt;</description>
+<gates>
+<gate name="G$1" symbol="SA" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-TOP" package="SA_TOP">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TPLACE" package="SA_TPLACE">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TOP-HALF" package="SA_TOP_HS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-TPLACE-HALF" package="SA_TPLACE_HS">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -14662,6 +15114,9 @@ DIN A4, landscape with location and doc. field</description>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="1M"/>
 <part name="SUPPLY16" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY17" library="supply2" deviceset="V+" device=""/>
+<part name="U$1" library="creative-commons" deviceset="CC" device="-TPLACE-HALF"/>
+<part name="U$2" library="creative-commons" deviceset="BY" device="-TPLACE-HS"/>
+<part name="U$3" library="creative-commons" deviceset="SA" device="-TPLACE-HALF"/>
 </parts>
 <sheets>
 <sheet>
@@ -14710,24 +15165,24 @@ DIN A4, landscape with location and doc. field</description>
 <attribute name="NAME" x="45.466" y="130.2766" size="1.778" layer="95"/>
 <attribute name="VALUE" x="45.466" y="127.508" size="1.778" layer="96"/>
 </instance>
-<instance part="R2" gate="G$1" x="109.22" y="124.46" smashed="yes" rot="R270">
-<attribute name="NAME" x="111.76" y="124.9426" size="1.778" layer="95"/>
-<attribute name="VALUE" x="111.252" y="122.174" size="1.778" layer="96"/>
+<instance part="R2" gate="G$1" x="119.38" y="33.02" smashed="yes" rot="R180">
+<attribute name="NAME" x="119.8626" y="30.48" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="117.094" y="30.988" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="R3" gate="G$1" x="119.38" y="124.46" smashed="yes" rot="R270">
-<attribute name="NAME" x="122.174" y="124.9426" size="1.778" layer="95"/>
-<attribute name="VALUE" x="121.666" y="122.174" size="1.778" layer="96"/>
+<instance part="R3" gate="G$1" x="119.38" y="22.86" smashed="yes" rot="R180">
+<attribute name="NAME" x="119.8626" y="20.066" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="117.094" y="20.574" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LED1" gate="G$1" x="109.22" y="134.62" smashed="yes" rot="R180">
-<attribute name="NAME" x="101.6" y="134.366" size="1.778" layer="95"/>
-<attribute name="VALUE" x="103.505" y="139.192" size="1.778" layer="96" rot="R270"/>
+<instance part="LED1" gate="G$1" x="129.54" y="33.02" smashed="yes" rot="R90">
+<attribute name="NAME" x="134.112" y="36.576" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="134.112" y="38.735" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="LED2" gate="G$1" x="119.38" y="134.62" smashed="yes" rot="R180">
-<attribute name="NAME" x="123.444" y="135.382" size="1.778" layer="95"/>
-<attribute name="VALUE" x="113.665" y="139.192" size="1.778" layer="96" rot="R270"/>
+<instance part="LED2" gate="G$1" x="129.54" y="22.86" smashed="yes" rot="R90">
+<attribute name="NAME" x="134.112" y="26.416" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="134.112" y="28.575" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SUPPLY5" gate="GND" x="99.06" y="139.7" smashed="yes">
-<attribute name="VALUE" x="97.155" y="136.525" size="1.778" layer="96"/>
+<instance part="SUPPLY5" gate="GND" x="137.16" y="15.24" smashed="yes">
+<attribute name="VALUE" x="135.255" y="12.065" size="1.778" layer="96"/>
 </instance>
 <instance part="R4" gate="G$1" x="20.32" y="81.28" smashed="yes" rot="R180">
 <attribute name="NAME" x="24.638" y="87.4014" size="1.778" layer="95" rot="R180"/>
@@ -14737,12 +15192,12 @@ DIN A4, landscape with location and doc. field</description>
 <attribute name="NAME" x="34.29" y="86.3854" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="34.29" y="83.566" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R6" gate="G$1" x="121.92" y="40.64" smashed="yes">
-<attribute name="NAME" x="119.38" y="44.9326" size="1.778" layer="95"/>
-<attribute name="VALUE" x="119.38" y="42.418" size="1.778" layer="96"/>
+<instance part="R6" gate="G$1" x="119.38" y="40.64" smashed="yes">
+<attribute name="NAME" x="116.84" y="44.9326" size="1.778" layer="95"/>
+<attribute name="VALUE" x="116.84" y="42.418" size="1.778" layer="96"/>
 </instance>
-<instance part="SUPPLY6" gate="G$1" x="129.54" y="45.72" smashed="yes">
-<attribute name="VALUE" x="127.635" y="48.895" size="1.778" layer="96"/>
+<instance part="SUPPLY6" gate="G$1" x="127" y="48.26" smashed="yes">
+<attribute name="VALUE" x="125.095" y="51.435" size="1.778" layer="96"/>
 </instance>
 <instance part="SUPPLY7" gate="GND" x="88.9" y="35.56" smashed="yes">
 <attribute name="VALUE" x="86.995" y="32.385" size="1.778" layer="96"/>
@@ -14775,13 +15230,13 @@ DIN A4, landscape with location and doc. field</description>
 <attribute name="NAME" x="30.988" y="71.247" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="32.004" y="68.453" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R8" gate="G$1" x="116.84" y="71.12" smashed="yes" rot="R270">
-<attribute name="NAME" x="112.268" y="71.6026" size="1.778" layer="95"/>
-<attribute name="VALUE" x="111.76" y="69.088" size="1.778" layer="96"/>
+<instance part="R8" gate="G$1" x="119.38" y="71.12" smashed="yes" rot="R270">
+<attribute name="NAME" x="114.808" y="71.6026" size="1.778" layer="95"/>
+<attribute name="VALUE" x="114.3" y="69.088" size="1.778" layer="96"/>
 </instance>
-<instance part="R9" gate="G$1" x="121.92" y="71.12" smashed="yes" rot="R270">
-<attribute name="NAME" x="124.46" y="72.3646" size="1.778" layer="95"/>
-<attribute name="VALUE" x="123.952" y="69.342" size="1.778" layer="96"/>
+<instance part="R9" gate="G$1" x="124.46" y="71.12" smashed="yes" rot="R270">
+<attribute name="NAME" x="127" y="72.3646" size="1.778" layer="95"/>
+<attribute name="VALUE" x="126.492" y="69.342" size="1.778" layer="96"/>
 </instance>
 <instance part="C3" gate="G$1" x="30.48" y="99.06" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.068" y="96.647" size="1.778" layer="95" rot="R180"/>
@@ -14836,14 +15291,17 @@ DIN A4, landscape with location and doc. field</description>
 <instance part="SV2" gate="1" x="223.52" y="83.82" rot="R180"/>
 <instance part="SV3" gate="1" x="223.52" y="55.88" rot="R180"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
-<instance part="R11" gate="G$1" x="165.1" y="50.8" rot="R270"/>
-<instance part="R12" gate="G$1" x="165.1" y="35.56" rot="R270"/>
-<instance part="SUPPLY16" gate="GND" x="165.1" y="27.94" smashed="yes">
-<attribute name="VALUE" x="163.195" y="24.765" size="1.778" layer="96"/>
+<instance part="R11" gate="G$1" x="134.62" y="129.54" rot="R270"/>
+<instance part="R12" gate="G$1" x="134.62" y="114.3" rot="R270"/>
+<instance part="SUPPLY16" gate="GND" x="134.62" y="106.68" smashed="yes">
+<attribute name="VALUE" x="132.715" y="103.505" size="1.778" layer="96"/>
 </instance>
-<instance part="SUPPLY17" gate="1" x="165.1" y="58.42" smashed="yes">
-<attribute name="VALUE" x="163.83" y="59.69" size="1.778" layer="96"/>
+<instance part="SUPPLY17" gate="1" x="134.62" y="137.16" smashed="yes">
+<attribute name="VALUE" x="133.35" y="138.43" size="1.778" layer="96"/>
 </instance>
+<instance part="U$1" gate="G$1" x="215.9" y="20.32"/>
+<instance part="U$2" gate="G$1" x="220.98" y="20.32"/>
+<instance part="U$3" gate="G$1" x="226.06" y="20.32"/>
 </instances>
 <busses>
 </busses>
@@ -14877,8 +15335,8 @@ DIN A4, landscape with location and doc. field</description>
 <pinref part="X1" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<wire x1="127" y1="40.64" x2="129.54" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="40.64" x2="129.54" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="40.64" x2="127" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="127" y1="40.64" x2="127" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="R6" gate="G$1" pin="2"/>
 <pinref part="SUPPLY6" gate="G$1" pin="VCC"/>
 </segment>
@@ -14922,11 +15380,11 @@ DIN A4, landscape with location and doc. field</description>
 <pinref part="X1" gate="G$1" pin="4"/>
 </segment>
 <segment>
-<wire x1="109.22" y1="139.7" x2="109.22" y2="142.24" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="142.24" x2="119.38" y2="142.24" width="0.1524" layer="91"/>
-<wire x1="119.38" y1="139.7" x2="119.38" y2="142.24" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="142.24" x2="99.06" y2="142.24" width="0.1524" layer="91"/>
-<junction x="109.22" y="142.24"/>
+<wire x1="134.62" y1="33.02" x2="137.16" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="33.02" x2="137.16" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="22.86" x2="137.16" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="22.86" x2="137.16" y2="17.78" width="0.1524" layer="91"/>
+<junction x="137.16" y="22.86"/>
 <pinref part="LED1" gate="G$1" pin="C"/>
 <pinref part="LED2" gate="G$1" pin="C"/>
 <pinref part="SUPPLY5" gate="GND" pin="GND"/>
@@ -15040,24 +15498,23 @@ DIN A4, landscape with location and doc. field</description>
 </net>
 <net name="N$11" class="0">
 <segment>
-<wire x1="119.38" y1="116.84" x2="119.38" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="119.38" y1="116.84" x2="114.3" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="22.86" x2="106.68" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="AT90USB162" pin="(OC0B)PD0"/>
-<wire x1="114.3" y1="116.84" x2="114.3" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="55.88" x2="104.14" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="22.86" x2="106.68" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="55.88" x2="104.14" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$12" class="0">
 <segment>
-<wire x1="109.22" y1="129.54" x2="109.22" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="33.02" x2="127" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="1"/>
 <pinref part="LED1" gate="G$1" pin="A"/>
 </segment>
 </net>
 <net name="N$13" class="0">
 <segment>
-<wire x1="119.38" y1="129.54" x2="119.38" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="22.86" x2="127" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="1"/>
 <pinref part="LED2" gate="G$1" pin="A"/>
 </segment>
@@ -15093,12 +15550,12 @@ DIN A4, landscape with location and doc. field</description>
 </net>
 <net name="HWB" class="0">
 <segment>
-<wire x1="104.14" y1="73.66" x2="109.22" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="73.66" x2="109.22" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="40.64" x2="91.44" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="40.64" x2="116.84" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="73.66" x2="111.76" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="73.66" x2="111.76" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="40.64" x2="91.44" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="40.64" x2="114.3" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="40.64" x2="91.44" y2="45.72" width="0.1524" layer="91"/>
-<junction x="109.22" y="40.64"/>
+<junction x="111.76" y="40.64"/>
 <pinref part="IC1" gate="AT90USB162" pin="(*CTS/*HWB/T0/INT7)PD7"/>
 <pinref part="R6" gate="G$1" pin="1"/>
 <pinref part="HWB" gate="A" pin="2"/>
@@ -15184,15 +15641,15 @@ DIN A4, landscape with location and doc. field</description>
 </net>
 <net name="N$21" class="0">
 <segment>
-<wire x1="119.38" y1="86.36" x2="119.38" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="116.84" y1="76.2" x2="116.84" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="116.84" y1="78.74" x2="119.38" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="76.2" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="78.74" x2="119.38" y2="78.74" width="0.1524" layer="91"/>
-<junction x="119.38" y="78.74"/>
+<wire x1="121.92" y1="86.36" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="76.2" x2="119.38" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="78.74" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="76.2" x2="124.46" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="78.74" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
+<junction x="121.92" y="78.74"/>
 <pinref part="R8" gate="G$1" pin="1"/>
 <pinref part="R9" gate="G$1" pin="1"/>
-<wire x1="154.94" y1="86.36" x2="119.38" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="154.94" y1="86.36" x2="121.92" y2="86.36" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="D3"/>
 </segment>
 </net>
@@ -15265,16 +15722,16 @@ DIN A4, landscape with location and doc. field</description>
 </net>
 <net name="N$9" class="0">
 <segment>
-<wire x1="104.14" y1="63.5" x2="116.84" y2="63.5" width="0.1524" layer="91"/>
-<wire x1="116.84" y1="63.5" x2="116.84" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="63.5" x2="119.38" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="63.5" x2="119.38" y2="66.04" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="AT90USB162" pin="(TXD1/INT3)PD3"/>
 <pinref part="R8" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$31" class="0">
 <segment>
-<wire x1="104.14" y1="60.96" x2="121.92" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="60.96" x2="121.92" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="60.96" x2="124.46" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="60.96" x2="124.46" y2="66.04" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="AT90USB162" pin="(RXD1/AIN1/INT2)PD2"/>
 <pinref part="R9" gate="G$1" pin="2"/>
 </segment>
@@ -15330,21 +15787,22 @@ DIN A4, landscape with location and doc. field</description>
 <segment>
 <pinref part="IC1" gate="AT90USB162" pin="(AIN0/INT1)PD1"/>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="104.14" y1="58.42" x2="91.44" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="91.44" y1="81.28" x2="109.22" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="58.42" x2="109.22" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="58.42" x2="109.22" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="33.02" x2="114.3" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
 <pinref part="IC1" gate="AT90USB162" pin="(PCINT5)PB5"/>
-<wire x1="104.14" y1="114.3" x2="132.08" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="132.08" y1="114.3" x2="132.08" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="132.08" y1="43.18" x2="165.1" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="114.3" x2="121.92" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="114.3" x2="121.92" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="121.92" x2="134.62" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="R11" gate="G$1" pin="2"/>
-<wire x1="165.1" y1="43.18" x2="165.1" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="121.92" x2="134.62" y2="124.46" width="0.1524" layer="91"/>
 <pinref part="R12" gate="G$1" pin="1"/>
-<wire x1="165.1" y1="40.64" x2="165.1" y2="43.18" width="0.1524" layer="91"/>
-<junction x="165.1" y="43.18"/>
+<wire x1="134.62" y1="119.38" x2="134.62" y2="121.92" width="0.1524" layer="91"/>
+<junction x="134.62" y="121.92"/>
 </segment>
 </net>
 <net name="N$6" class="1">
