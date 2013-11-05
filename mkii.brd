@@ -3029,7 +3029,7 @@ Please make sure your boards conform to these design rules.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="IC1" library="at90usb" package="TQFP32-08" value="ATMEGA32U4" x="16.51" y="8.89" smashed="yes" rot="MR270">
+<element name="IC1" library="at90usb" package="TQFP32-08" value="ATMEGA32U2" x="16.51" y="8.89" smashed="yes" rot="MR270">
 <attribute name="NAME" x="22.1996" y="4.191" size="1.016" layer="26" rot="MR0"/>
 <attribute name="VALUE" x="17.78" y="11.9126" size="0.8128" layer="28" rot="MR270"/>
 </element>
@@ -3710,56 +3710,6 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="8.763" y1="15.603" x2="8.763" y2="15.113" width="0.1524" layer="16"/>
 </signal>
 </signals>
-<errors>
-<approved hash="3,1,82adf2ddf2a582d5"/>
-<approved hash="3,1,2f0c18fc18cd2f3d"/>
-<approved hash="3,1,84f6cc86ccc484b4"/>
-<approved hash="3,1,8ea37697bf9830d1"/>
-<approved hash="3,1,8c21c216fad4c451"/>
-<approved hash="3,1,595da8a2d8a11917"/>
-<approved hash="3,1,f6b074407548f7b8"/>
-<approved hash="3,1,9c961e72ebb2a766"/>
-<approved hash="3,1,cf5b5f6b5f39cf09"/>
-<approved hash="3,1,5b39677e2e4e2f76"/>
-<approved hash="7,39,743c540e76472e50"/>
-<approved hash="7,39,a6967eb437e697e1"/>
-<approved hash="7,39,74c26f0b4d402e52"/>
-<approved hash="7,39,a66845b70ce197e5"/>
-<approved hash="7,39,300c25f4250730ff"/>
-<approved hash="7,39,f425d54a373befbb"/>
-<approved hash="7,39,f442ef7f8d1d6e3a"/>
-<approved hash="7,39,a6f0c5224ca4d76c"/>
-<approved hash="7,39,b1e82410247ab182"/>
-<approved hash="7,39,a767ff1bf77256e1"/>
-<approved hash="7,39,73e461acc42fa99c"/>
-<approved hash="7,39,a16a4bed85aa10d6"/>
-<approved hash="7,39,f47ce67884126e3c"/>
-<approved hash="7,39,a6f2cc214597d76e"/>
-<approved hash="7,39,31c02438242231da"/>
-<approved hash="7,39,2b0ce9f4e9062bfe"/>
-<approved hash="7,39,aae8e810e87baa83"/>
-<approved hash="7,39,2ac0e838e8232adb"/>
-<approved hash="7,39,3f8c07f407073f7f"/>
-<approved hash="7,39,e425c5a7c09618fb"/>
-<approved hash="7,39,63e4714133825edc"/>
-<approved hash="7,39,906a7ac1ec467916"/>
-<approved hash="7,39,64c27fe6baedd912"/>
-<approved hash="7,39,9768749b650dfe25"/>
-<approved hash="7,39,3e40063806223e5a"/>
-<approved hash="7,39,e47cf69573bf997c"/>
-<approved hash="7,39,be680610067abe02"/>
-<approved hash="7,39,e442ff927ab0997a"/>
-<approved hash="7,39,97f2fd0d2c7bbeae"/>
-<approved hash="7,39,643c44e381ead910"/>
-<approved hash="7,39,97f0f40e2548beac"/>
-<approved hash="7,39,9667ce379e9e3f21"/>
-<approved hash="7,39,97964f985e0afe21"/>
-<approved hash="7,39,2a687810787b2a03"/>
-<approved hash="7,39,ab8c79f47906ab7e"/>
-<approved hash="7,39,aa4078387823aa5b"/>
-<approved hash="4,1,3b579efaad330798"/>
-<approved hash="4,1,35a597deab4d0990"/>
-</errors>
 </board>
 </drawing>
 </eagle>
