@@ -25571,8 +25571,8 @@ DIN A4, landscape with location and doc. field</description>
 <part name="SUPPLY3" library="supply2" deviceset="VCC" device=""/>
 <part name="SUPPLY2" library="supply2" deviceset="V+" device=""/>
 <part name="Q1" library="crystal" deviceset="CRYSTAL" device="HC49S" value="16MHz"/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C0603" value="22p"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="C0603" value="22p"/>
 <part name="SUPPLY4" library="supply2" deviceset="GND" device=""/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0603" value="1K"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="470"/>

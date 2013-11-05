@@ -3041,11 +3041,11 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="MF" value="" x="12.954" y="20.701" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="1667008" x="12.954" y="20.701" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C1" library="rcl" package="C0603" value="33p" x="15.494" y="19.431" smashed="yes" rot="MR0">
+<element name="C1" library="rcl" package="C0603" value="22p" x="15.494" y="19.431" smashed="yes" rot="MR0">
 <attribute name="NAME" x="16.891" y="19.939" size="1.016" layer="26" rot="MR180"/>
 <attribute name="VALUE" x="16.51" y="20.32" size="1.27" layer="28" rot="MR180"/>
 </element>
-<element name="C2" library="rcl" package="C0603" value="33p" x="15.494" y="21.971" smashed="yes" rot="MR0">
+<element name="C2" library="rcl" package="C0603" value="22p" x="15.494" y="21.971" smashed="yes" rot="MR0">
 <attribute name="NAME" x="16.891" y="22.479" size="1.016" layer="26" rot="MR180"/>
 <attribute name="VALUE" x="16.51" y="22.86" size="1.27" layer="28" rot="MR180"/>
 </element>
