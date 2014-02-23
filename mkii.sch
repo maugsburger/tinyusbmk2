@@ -25901,27 +25901,27 @@ DIN A4, landscape with location and doc. field</description>
 </net>
 <net name="GND" class="1">
 <segment>
-<wire x1="20.32" y1="116.84" x2="12.7" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="116.84" x2="12.7" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="20.32" y1="111.76" x2="12.7" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="27.94" y1="99.06" x2="12.7" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="99.06" x2="12.7" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="121.92" x2="12.7" y2="121.92" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="121.92" x2="12.7" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="60.96" x2="12.7" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="93.98" x2="15.24" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="111.76" x2="12.7" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="116.84" x2="10.16" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="116.84" x2="10.16" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="111.76" x2="10.16" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="99.06" x2="10.16" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="99.06" x2="10.16" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="121.92" x2="10.16" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="121.92" x2="10.16" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="93.98" x2="15.24" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="111.76" x2="10.16" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="121.92" x2="33.02" y2="134.62" width="0.1524" layer="91"/>
-<junction x="12.7" y="111.76"/>
-<junction x="12.7" y="116.84"/>
-<junction x="12.7" y="93.98"/>
-<junction x="12.7" y="99.06"/>
+<junction x="10.16" y="111.76"/>
+<junction x="10.16" y="116.84"/>
+<junction x="10.16" y="99.06"/>
 <pinref part="C1" gate="G$1" pin="1"/>
 <pinref part="C2" gate="G$1" pin="1"/>
 <pinref part="SUPPLY4" gate="GND" pin="GND"/>
 <pinref part="RST" gate="A" pin="1"/>
 <pinref part="C3" gate="G$1" pin="1"/>
-<pinref part="X1" gate="G$1" pin="4"/>
+<pinref part="X1" gate="G$1" pin="5"/>
+<wire x1="10.16" y1="93.98" x2="10.16" y2="60.96" width="0.1524" layer="91"/>
+<junction x="10.16" y="93.98"/>
 </segment>
 <segment>
 <wire x1="134.62" y1="33.02" x2="137.16" y2="33.02" width="0.1524" layer="91"/>
