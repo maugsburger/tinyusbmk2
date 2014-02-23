@@ -25616,10 +25616,6 @@ DIN A4, landscape with location and doc. field</description>
 <part name="SV2" library="con-ml" deviceset="ML6" device="" value="PDI"/>
 <part name="SV3" library="con-ml" deviceset="ML6" device="" value="TPI"/>
 <part name="FRAME1" library="frames" deviceset="A4L-LOC" device=""/>
-<part name="R11" library="rcl" deviceset="R-EU_" device="R0603" value="1M"/>
-<part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="1M"/>
-<part name="SUPPLY16" library="supply2" deviceset="GND" device=""/>
-<part name="SUPPLY17" library="supply2" deviceset="V+" device=""/>
 <part name="U$1" library="creative-commons" deviceset="CC" device="-TPLACE-HALF"/>
 <part name="U$2" library="creative-commons" deviceset="BY" device="-TPLACE-HS"/>
 <part name="U$3" library="creative-commons" deviceset="SA" device="-TPLACE-HALF"/>
@@ -25812,14 +25808,6 @@ DIN A4, landscape with location and doc. field</description>
 <instance part="SV2" gate="1" x="223.52" y="83.82" rot="R180"/>
 <instance part="SV3" gate="1" x="223.52" y="55.88" rot="R180"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
-<instance part="R11" gate="G$1" x="134.62" y="129.54" rot="R270"/>
-<instance part="R12" gate="G$1" x="134.62" y="114.3" rot="R270"/>
-<instance part="SUPPLY16" gate="GND" x="134.62" y="106.68" smashed="yes">
-<attribute name="VALUE" x="132.715" y="103.505" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY17" gate="1" x="134.62" y="137.16" smashed="yes">
-<attribute name="VALUE" x="133.35" y="138.43" size="1.778" layer="96"/>
-</instance>
 <instance part="U$1" gate="G$1" x="215.9" y="20.32"/>
 <instance part="U$2" gate="G$1" x="220.98" y="20.32"/>
 <instance part="U$3" gate="G$1" x="226.06" y="20.32"/>
@@ -25997,10 +25985,6 @@ DIN A4, landscape with location and doc. field</description>
 <pinref part="SUPPLY9" gate="GND" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R12" gate="G$1" pin="2"/>
-<pinref part="SUPPLY16" gate="GND" pin="GND"/>
-</segment>
-<segment>
 <pinref part="U3" gate="G$1" pin="GND"/>
 <pinref part="SUPPLY18" gate="GND" pin="GND"/>
 <wire x1="7.62" y1="15.24" x2="7.62" y2="20.32" width="0.1524" layer="91"/>
@@ -26137,10 +26121,6 @@ DIN A4, landscape with location and doc. field</description>
 <wire x1="238.76" y1="114.3" x2="231.14" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="SV2" gate="1" pin="2"/>
 <wire x1="238.76" y1="86.36" x2="231.14" y2="86.36" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="R11" gate="G$1" pin="1"/>
-<pinref part="SUPPLY17" gate="1" pin="V+"/>
 </segment>
 </net>
 <net name="N$16" class="0">
@@ -26339,19 +26319,6 @@ DIN A4, landscape with location and doc. field</description>
 <wire x1="104.14" y1="58.42" x2="109.22" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="58.42" x2="109.22" y2="33.02" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="33.02" x2="114.3" y2="33.02" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$5" class="0">
-<segment>
-<pinref part="IC1" gate="AT90USB162" pin="(PCINT5)PB5"/>
-<wire x1="104.14" y1="114.3" x2="121.92" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="114.3" x2="121.92" y2="121.92" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="121.92" x2="134.62" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="R11" gate="G$1" pin="2"/>
-<wire x1="134.62" y1="121.92" x2="134.62" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="R12" gate="G$1" pin="1"/>
-<wire x1="134.62" y1="119.38" x2="134.62" y2="121.92" width="0.1524" layer="91"/>
-<junction x="134.62" y="121.92"/>
 </segment>
 </net>
 <net name="N$6" class="1">
