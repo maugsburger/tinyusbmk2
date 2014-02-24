@@ -3255,34 +3255,6 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="U3" pad="1"/>
 <contactref element="U3" pad="1"/>
 <contactref element="X1" pad="5"/>
-<wire x1="45.72" y1="12.688" x2="43.815" y2="18.415" width="0" layer="19" extent="1-1"/>
-<wire x1="45.085" y1="5.715" x2="45.72" y2="12.688" width="0" layer="19" extent="1-1"/>
-<wire x1="43.104" y1="4.674" x2="45.085" y2="5.715" width="0" layer="19" extent="1-1"/>
-<wire x1="34.29" y1="18.415" x2="43.815" y2="18.415" width="0" layer="19" extent="1-1"/>
-<wire x1="33.02" y1="11.188" x2="34.29" y2="18.415" width="0" layer="19" extent="1-1"/>
-<wire x1="31.535" y1="8.89" x2="33.02" y2="11.188" width="0" layer="19" extent="1-1"/>
-<wire x1="30.8578" y1="8.545" x2="31.535" y2="8.89" width="0" layer="19" extent="1-16"/>
-<wire x1="29.845" y1="9.271" x2="30.8578" y2="8.545" width="0" layer="19" extent="16-16"/>
-<wire x1="31.535" y1="6.985" x2="30.8578" y2="8.545" width="0" layer="19" extent="1-16"/>
-<wire x1="27.52" y1="6.985" x2="29.845" y2="9.271" width="0" layer="19" extent="1-1"/>
-<wire x1="20.32" y1="11.188" x2="27.52" y2="6.985" width="0" layer="19" extent="1-1"/>
-<wire x1="15.31" y1="13.1826" x2="20.32" y2="11.188" width="0" layer="19" extent="1-16"/>
-<wire x1="15.66" y1="15.24" x2="15.31" y2="13.1826" width="0" layer="19" extent="16-16"/>
-<wire x1="15.24" y1="17.78" x2="15.66" y2="15.24" width="0" layer="19" extent="16-16"/>
-<wire x1="16.344" y1="19.431" x2="15.24" y2="17.78" width="0" layer="19" extent="16-16"/>
-<wire x1="16.344" y1="21.971" x2="16.344" y2="19.431" width="0" layer="19" extent="16-16"/>
-<wire x1="17.78" y1="17.145" x2="15.24" y2="17.78" width="0" layer="19" extent="1-1"/>
-<wire x1="10.16" y1="13.335" x2="15.31" y2="13.1826" width="0" layer="19" extent="16-16"/>
-<wire x1="9.355" y1="17.895" x2="10.16" y2="13.335" width="0" layer="19" extent="16-16"/>
-<wire x1="8.255" y1="19.685" x2="9.355" y2="17.895" width="0" layer="19" extent="16-16"/>
-<wire x1="7.445" y1="20.625" x2="8.255" y2="19.685" width="0" layer="19" extent="1-1"/>
-<wire x1="6.35" y1="19.685" x2="7.445" y2="20.625" width="0" layer="19" extent="1-1"/>
-<wire x1="12.2174" y1="8.49" x2="10.16" y2="13.335" width="0" layer="19" extent="16-16"/>
-<wire x1="7.94" y1="8.255" x2="12.2174" y2="8.49" width="0" layer="19" extent="16-16"/>
-<wire x1="4.445" y1="13.63" x2="10.16" y2="13.335" width="0" layer="19" extent="1-1"/>
-<wire x1="8.89" y1="2.54" x2="7.94" y2="8.255" width="0" layer="19" extent="16-16"/>
-<wire x1="14.605" y1="2.54" x2="8.89" y2="2.54" width="0" layer="19" extent="1-1"/>
-<wire x1="24.765" y1="18.415" x2="17.78" y2="17.145" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VCC" class="1">
 <contactref element="IC1" pad="4"/>
